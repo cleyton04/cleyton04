@@ -19,15 +19,3 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
-    
-  
-  <h1 align="center">Social Media</h1>
-    <a href = "mailto: cleitonmendonca35@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "www.linkedin.com/in/cleiton-mendonça-6474681a3/">
-      <img width="25" src="linkedin.svg">
-    </a>
-</div>
-
-![Snake animation](https://github.com/cleyton04/cleyton04/blob/output/github-contribution-grid-snake.svg)
